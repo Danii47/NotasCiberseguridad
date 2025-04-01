@@ -1,4 +1,4 @@
-#BanditChallenge #SSL/TLS
+#BanditChallenge #SSL/TLS #openssl
 ### Enunciado
 La contraseña para el siguiente nivel se puede recuperar enviando la contraseña del nivel actual al puerto 30001 en localhost utilizando encriptación SSL/TLS.
 

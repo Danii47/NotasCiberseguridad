@@ -1,4 +1,4 @@
-#BanditChallenge #Telnet #Netcat
+#BanditChallenge #Telnet #Netcat 
 ### Enunciado
 La contraseña para el siguiente nivel se puede recuperar enviando la contraseña del nivel actual al puerto `30000` en `localhost`.
 ### Solución

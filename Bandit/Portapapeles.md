@@ -3,4 +3,4 @@
 
 ### Solución
 
-[[Nivel XX -|Siguiente nivel]]
+[[Nivel 19 - Archivo setuid|Siguiente nivel]]
