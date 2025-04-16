@@ -1,0 +1,1 @@
+`gobuster dir -i URL -w WORDLIST`

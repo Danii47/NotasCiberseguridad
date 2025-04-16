@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Numbers/Archivos Comprimidos/Números mágicos - Archivos Comprimidos.md",
+                "file": "Steganography/Sound Checklist/SOUND - Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Números mágicos - Archivos Comprimidos"
+              "title": "SOUND - Checklist"
             }
           }
         ],
@@ -185,9 +185,21 @@
   },
   "active": "e48ae4fd1f50857b",
   "lastOpenFiles": [
+    "Steganography/PDF/PDF - Checklist.md",
+    "Steganography/Sound Checklist/SOUND - Checklist.md",
     "Magic Numbers/Imagenes/Números mágicos - Imagenes.md",
-    "Attacks/ARP Spoofing/BETTERCAP/Ataque ARP Spoofing.md",
+    "Steganography/Image Checklist",
+    "Steganography/Sound Checklist",
+    "Steganography/PDF",
+    "Steganography",
+    "Magic Numbers/Archivos Comprimidos/Números mágicos - Archivos Comprimidos.md",
+    "Attacks/Escalar Privilegios/Buscar archivos con SUID activado.md",
+    "Attacks/Directory Discover/GOBUSTER/Encontrar directorios ocultos.md",
+    "Attacks/Escalar Privilegios",
     "Attacks/WiFi/WIFITE/Ataques con wifite.md",
+    "Attacks/Directory Discover/GOBUSTER",
+    "Attacks/Directory Discover",
+    "Attacks/ARP Spoofing/BETTERCAP/Ataque ARP Spoofing.md",
     "Bandit/Nivel 21 - CronJobs.md",
     "Attacks/ARP Spoofing/BETTERCAP",
     "Attacks/ARP Spoofing/Untitled.md",
@@ -204,18 +216,10 @@
     "Bandit/Nivel 14 - Envío de mensajes a través de Telnet.md",
     "Bandit/Nivel 12 - Descompresión de archivos.md",
     "Herramientas/Escaneo de redes - NMAP.md",
-    "Herramientas/Untitled",
     "Herramientas/Editar hexadecimal - HEXEDIT.md",
     "Herramientas/Ver formato hexadecimal - XXD.md",
-    "Magic Numbers/Archivos Comprimidos/Números mágicos - Archivos Comprimidos.md",
-    "Herramientas",
     "Nivel.md",
     "\"Nivel.md",
-    "WiFi.md",
-    "Attacks/WiFi/AIRMON-NG",
-    "Attacks/Scanner/NMAP",
-    "Attacks/Scanner",
-    "Attacks/WiFi/WIFITE",
-    "Attacks/WiFi"
+    "WiFi.md"
   ]
 }
